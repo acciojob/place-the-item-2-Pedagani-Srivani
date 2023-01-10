@@ -2,6 +2,6 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-
+    align-item:center;
 	flex-wrap:wrap;
 }
